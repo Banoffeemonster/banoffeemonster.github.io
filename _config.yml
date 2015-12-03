@@ -50,7 +50,7 @@ social:
     url: http://github.com/banoffeemonster
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer theme by <a href="http://startbootstrap.com">Start Bootstrap</a>. <p>Profile Image: Jisook Moon at <a href="http://www.ocular.co.nz/about/">Ocular</a>.</p>'
 
 # Build settings
 markdown: kramdown
