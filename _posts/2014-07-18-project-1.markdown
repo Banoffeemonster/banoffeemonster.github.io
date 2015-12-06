@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: img/portfolio/360_2014.png
+img: 360_2014.png
 alt: 360 Degree Fitness
 project-date: April 2014
 client: 360 Degree Fitness
