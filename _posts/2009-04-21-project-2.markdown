@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2009-04-21
-img: thesauce.png
+img: acc.png
 alt: Accident Compensation Corporation (ACC)
 project-date: April 2009
 client: ACC
