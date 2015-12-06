@@ -5,7 +5,7 @@ date: 2002-08-01
 img: premierleague.png
 alt: premierleague.com
 project-date: August 2002
-client: ACC
+client: Press Association/Premier League
 category: Web Content
 description: Deputy Editor (June 2002-January 2005) for www.premierleague.com, managed by the UK Press Association. Content compiled for launch. News writing, audio and video content management.
 ---
