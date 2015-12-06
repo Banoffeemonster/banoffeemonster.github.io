@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2008-10-01
+img: premierleague.png
+alt: premierleague.com
+project-date: August 2002
+client: ACC
+category: Web Content
+description: Deputy Editor (June 2002-January 2005) for www.premierleague.com, managed by the UK Press Association. Content compiled for launch. News writing, audio and video content management.
+---

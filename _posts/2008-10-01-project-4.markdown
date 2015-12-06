@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2008-10-01
+img: nzc.png
+alt: New Zealand Cricket (NZC)
+project-date: August 2008
+client: ACC
+category: Web Content; Product Ownership
+description: Content and Product Owner role for redevelopment of New Zealand Cricket's website.
+---
