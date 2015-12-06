@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2012-05-01
+img: thesauce.png
+alt: Accident Compensation Corporation (ACC)
+project-date: August 2008
+client: Accident Compensation Corporation (ACC)
+category: Web Content; Product Ownership; Information Architecture; User Experience; Strategy
+description: Multi disciplinary role in ACC intranet redevelopment. For more information, see <a href="http://www.algim.org.nz/globalassets/symposium-web/2013-online-services-symposium/speaker-presentations/upgrading-accs-intranet---anne-marie-low.pdf">The Sauce: Upgrading ACC’s intranet, content and technology (PDF) </a>
+---
