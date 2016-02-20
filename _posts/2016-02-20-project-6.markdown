@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 6
 date: 2016-02-10
-img: img/cps_website.png
+img: cps_website.png
 alt: Churtonpark.school.nz
 project-date: February 2016
 client: Churton Park School
