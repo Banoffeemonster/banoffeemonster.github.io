@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2016-02-10
+img: cps_website.png
+alt: Churtonpark.school.nz
+project-date: February 2016
+client: Churton Park School
+category: Web Development
+description: Web Development and content migtation in Google Site for Wellington primary school.
+---
