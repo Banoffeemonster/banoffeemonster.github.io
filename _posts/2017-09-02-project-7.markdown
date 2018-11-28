@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2016-01-10
+img: cps_website.png
+alt: universal-distributors-limited.myshopify.com/
+project-date: January 2016
+client: Universal Distributors
+category: Web & Content Development
+description: Web Development and content for local import/export company.
+---
