@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2016-01-10
-img: cps_website.png
+img: Screen Shot 2018-11-29 at 11.08.43 AM.png
 alt: universal-distributors-limited.myshopify.com/
 project-date: January 2016
 client: Universal Distributors
