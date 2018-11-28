@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2016-01-10
-img: udltd.png
+img: ud_ltd.png
 alt: universal-distributors-limited.myshopify.com/
 project-date: January 2016
 client: Universal Distributors
